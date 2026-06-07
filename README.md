@@ -1,9 +1,9 @@
 # DecodeLabs Data Analytics Internship
 
-A 4-week data analytics internship (Batch 2026) covering the full analytics workflow —
+A 4-week data analytics internship (Batch 2026) covering the full analytics workflow
 from raw data cleaning through to SQL querying and data visualization.
 
-**Intern:** Chisom  
+**Intern:** Chisom Okereke  
 **Organization:** DecodeLabs  
 **Duration:** 4 Weeks | Batch 2026
 
