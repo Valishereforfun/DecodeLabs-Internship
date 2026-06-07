@@ -90,7 +90,7 @@ Built four pivot table summaries:
 |------|-------------|
 | `Week_4_project_for_decode_labs_on_data_cleaning_and_visualization.xlsx` | Full Excel workbook with cleaned data, pivot tables, charts, and insights |
 | `Dataset_for_Data_Analytics.xlsx` | Original source dataset |
-| `Data_Analytics_Project_4.pdf` | Project brief from DecodeLabs |
+
 
 ---
 
