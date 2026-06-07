@@ -42,7 +42,7 @@ Total Orders (1K), and Average Order Value (1.05K).
 
 **Week 3 – SQL Series:** Imported the dataset into MySQL Workbench and wrote
 82 lines of SQL covering SELECT, WHERE, AND/OR filtering, ORDER BY, GROUP BY,
-COUNT, SUM, and AVG — running 43+ successful queries against the analytics_table.
+COUNT, SUM, and AVG, running 43+ successful queries against the analytics_table.
 
 **Week 4 – Data Visualization & Insights:** Built pivot tables and charts in Excel
 to summarize revenue by year, product, referral source, and order status, then
