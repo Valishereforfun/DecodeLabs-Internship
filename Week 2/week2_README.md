@@ -42,7 +42,7 @@ Built 4 KPI card visuals displaying key measures across the dataset:
 | `Dataset_for_Data_Analytics.xlsx` | Source dataset |
 | `Screenshot_6.png` | Power BI KPI dashboard |
 | `Screenshot_7.png` | Power Query Editor with applied transformation steps |
-| `Data_analytics_P2.pdf` | Project brief from DecodeLabs |
+
 
 ---
 
