@@ -30,8 +30,8 @@ The goal was zero duplicate IDs and zero incorrectly formatted dates.
 |------|-------------|
 | `Dataset_for_Data_Analytics.xlsx` | Original raw dataset |
 | `Dataset_for_Data_Analytics_Cleaned.xlsx` | Cleaned dataset (Excel format) |
-| `Dataset_for_Data_Analytics_Cleaned_csv.csv` | Cleaned dataset (CSV format) |
-| `DATA_ANALYTICS_p1.pdf` | Project brief from DecodeLabs |
+
+
 
 ---
 
